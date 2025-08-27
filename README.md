@@ -64,8 +64,10 @@ PART1 DEATILS
 
 
 # 7 SITEMAP:
+<img width="1252" height="419" alt="Screenshot 2025-08-27 165011" src="https://github.com/user-attachments/assets/cd6d81f9-6c69-4a0d-99af-628a91101a62" />
 
 # 8 CHANGELOG
+<img width="1196" height="462" alt="Screenshot 2025-08-27 172751" src="https://github.com/user-attachments/assets/aae757df-9422-4cc8-9924-3f0f0e2bb0bb" />
 
 
 # 9 REFERENCES
