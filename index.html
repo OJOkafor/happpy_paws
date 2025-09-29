@@ -4,19 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HAPPY PAWS ANIMAL SHELTER HOME PAGE</title>
+    <link rel="stylesheet" href="assets/css/style-index.css">
 </head>
+
 <body>
     <header>
         // Logo and Title placed in the center of the webpage
-        <center>
-            <img src="_images/happy_paws_logo.png" alt="Happy Paws Logo" class="logo" width="250" height="200">
+        
+            <img src="assets/_images/new happypawslogo.png" alt="Happy Paws Logo" class="logo" width="250" height="200">
             <h1 class="logo">Happy Paws</h1>
-        </center>
+        
     <nav> 
         // the main navigation menu 
-        <h1 class="menu-toggle">☰</h1>
+        <button class="menu-toggle">☰</button>
         <ul>
-            <li><a href="index.html">Home</a></li>
+        <li><a href="index.html">Home</a></li>
         <li><a href="about.html">About</a></li>
         <li><a href="adoption.html">Adoption</a></li>
         <li><a href="donate.html">Donate</a></li>
@@ -29,6 +31,55 @@
         // the welcoming message 
         <h1>Welcome to Happy Paws Animal Shelter</h1>
         <p>Your new best friend is waiting for you!</p>
+        // Hero Section
+<section class="hero">
+  <ul class="hero-text">
+    <li><h1>Welcome to Happy Paws Animal Shelter</h1></li>
+    <li><p>Your new best friend is waiting for you!</p></li>
+    <li><button onclick="window.location.href='adoption.html'">View Adoptable Pets</button></li>
+  </ul>
+</section>
+
+  // Featured Pets Carousel
+<section class="featured-pets">
+  <h2>Meet Some of Our Adoptable Pets</h2>
+  <ul class="carousel">
+    <li class="pet-card">
+      <img src="assets/_images/rottweiler.jpeg" alt="Roxy the Rottweiler">
+      <h3>Roxy</h3>
+      <p>Loyal and protective</p>
+    </li>
+    <li class="pet-card">
+      <img src="assets/_images/golden_retiever.jpeg" alt="Buddy the Golden Retriever">
+      <h3>Buddy</h3>
+      <p>Friendly and energetic</p>
+    </li>
+    <li class="pet-card">
+      <img src="assets/_images/leothecat.jpg" alt="Leo the Cat">
+      <h3>Leo</h3>
+      <p>Playful and affectionate</p>
+    </li>
+  </ul>
+</section>
+<section class="community-events"> </section>
+  <h2>Community Events</h2>
+  <ul class="gallery-grid">
+    <li><img src="assets/_images/event1.png" alt="Adoption event 1"></li>
+    <li><img src="assets/_images/event2.jpeg" alt="Adoption event 2"></li>
+    <li><img src="assets/_images/event3.jpeg" alt="Volunteer day"></li>
+    <li><img src="assets/_images/event4.jpeg" alt="Pet playtime"></li>
+  </ul>
+</section>
+
+// Newsletter Signup
+<section class="newsletter">
+  <h2>Subscribe to Our Newsletter</h2>
+  <form id="newsletter-form">
+    <input type="email" placeholder="Enter your email" required>
+    <button type="submit">Subscribe</button>
+  </form>
+</section>
+
     </main>
     <footer>
         <p>&copy; 2025 Happy Paws Animal Shelter. All rights reserved.</p>

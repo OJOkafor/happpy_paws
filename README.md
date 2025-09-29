@@ -16,7 +16,7 @@ Enhance Community Engagement: Offer resources and information to educate the pub
 Streamline Donations: Create a straightforward donation process to support the shelter's operations and initiatives.
 Showcase Success Stories: Highlight successful adoptions and testimonials from happy adopters to encourage community involvement.
 
-# 5Key Features
+# 5 Key Features
 
 Homepage:
 
