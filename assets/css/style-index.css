@@ -124,8 +124,8 @@ nav ul li a:hover {
 
 /* Main: Hero Welcome Section (Index-Specific) */
 main {
-    background: linear-gradient(rgba(44, 90, 58, 0.8), rgba(44, 90, 58, 0.8)), url('path/to/hero-image.jpg') center/cover no-repeat;
-    /* Replace with actual hero image, e.g., shelter photo */
+    background: linear-gradient(rgba(44, 90, 58, 0.8), rgba(44, 90, 58, 0.8)), url('../images/shelter-hero.jpg') center/cover no-repeat;
+    /* Uses the actual hero image from assets/images/shelter-hero.jpg */
     color: #fff;
     padding: 4rem 1rem;
     min-height: 60vh;
@@ -186,7 +186,7 @@ footer p {
 @media print { body { background-color: #fff; color: #000; } header, footer, nav { display: none; } main { box-shadow: none; } }
 /* Hero Section */
 .hero {
-  background: linear-gradient(rgba(44, 90, 58, 0.7), rgba(44, 90, 58, 0.7)), url('assets/images/shelter-hero.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(44, 90, 58, 0.8), rgba(44, 90, 58, 0.8)), url('../images/shelter-hero.jpg') center/cover no-repeat;
   color: #fff;
   padding: 6rem 1rem;
   text-align: center;
