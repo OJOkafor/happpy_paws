@@ -147,27 +147,33 @@ New logo design added to replace the old one and  to better suit the website.
 Implemented consistent class naming conventions for maintainability. Feedback: "Ensure consistent styling."
 Added alt text for images, labels for form inputs, and aria-labels for social links to improve accessibility. Feedback: "Address accessibility concerns."
 Implemented responsive design with media queries to ensure layouts adapt to smaller screens. Feedback: "Ensure mobile-friendliness."
+
 Index Page:
 Added Hero Section with welcoming banner, headline, subtext, and call-to-action button. Feedback: "Enhance visual appeal."
 Added Featured Pets Carousel to showcase adoptable pets. Feedback: "Highlight adoptable animals."
 Added Community Events Gallery to display recent shelter events and volunteer activities. Feedback: "Showcase community involvement."
 Added Newsletter Signup Form for email subscriptions. Feedback: "Increase newsletter signups."
+
 About Page:
 Added Team Section with photos and bios of shelter staff and volunteers. Feedback: "Introduce the team."
 Added Shelter Facilities Gallery to showcase the shelter building. Feedback: "Showcase facilities."
 Added Before & After Rescue Section to highlight rescued animals’ transformations. Feedback: "Tell impactful stories."
 Added Supporters Logos to display logos of partner organizations and sponsors. Feedback: "Recognize partners."
+
 Adoption Page:
 Added New Pet Entry (Leo) with image, details, video, and adopt button. Feedback: "Feature individual animals."
 Added Adoption Filter Bar to filter pets by breed and age. Feedback: "Improve search functionality."
 Added Adoption Success Stories to share positive adoption outcomes. Feedback: "Highlight successful adoptions."
+
 Donate Page:
 Added Donation Impact Section with images and captions showing how donations help. Feedback: "Showcase impact of donations."
 Added Donation Methods List with icons and text describing ways to donate. Feedback: "Provide clear donation methods."
 Added Donation Form to collect donor information and donation amount. Feedback: "Streamline donation process."
+
 Blog Page:
 Added Blog Posts List with featured images, titles, excerpts, and post metadata. Feedback: "Showcase blog content effectively."
 Implemented Semantic Article Structure with each post wrapped in <article> with <figure> for images and <figcaption>. Feedback: "Improve blog structure."
+
 Contact Us Page:
 Added Contact Information Section with address, phone, and email wrapped in <address>. Feedback: "Provide contact details clearly."
 Added Contact Form with fields for name, email, and message. Feedback: "Enable easy communication."
