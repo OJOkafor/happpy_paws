@@ -95,6 +95,7 @@ Homepage
     - Featured Pets Carousel
     - Community Events Gallery
     - Newsletter Signup Form
+	
 About Us
     - Organization History
     - Mission and Values
@@ -102,36 +103,42 @@ About Us
     - Shelter Facilities Gallery
     - Before & After Rescue Section
     - Supporters Logos
+	
 Adopt
     - Animal Listings (Profiles with photos, descriptions)
     - Adoption Filter Bar
     - Adoption Process
     - Adoption Application Form
     - Adoption Success Stories
+	
 Donate
     - Donation Options
     - Secure Donation Platform
     - Donation Impact Section
     - Donation Methods List
     - Donation Form
+	
 Volunteer
     - Volunteer Opportunities
     - Volunteer Requirements
     - Volunteer Application Form
     - Volunteer Testimonials
     - Volunteer Training
+	
 Blog
     - Post Listings (Titles, Excerpts, Featured Images)
     - Search Bar
     - Category/Tag Filters
     - Newsletter Subscription Form
     - Social Media Sharing Buttons
+	
 Contact Us
     - Contact Information
     - Contact Form
     - Google Maps
     - Social Media Links
     - FAQ Section
+	
 Footer
     - Copyright
     - Social Media Links
